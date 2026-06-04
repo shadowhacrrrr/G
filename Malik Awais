@@ -1,0 +1,21 @@
+famous_image_prompts/
+│
+├── manage.py
+├── requirements.txt
+│
+├── famous_image_prompts/
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── prompts/
+│   ├── models.py
+│   ├── views.py
+│   ├── forms.py
+│   ├── urls.py
+│   └── templates/
+│       ├── base.html
+│       ├── home.html
+│       ├── signup.html
+│       ├── login.html
+│       └── upload_prompt.html
